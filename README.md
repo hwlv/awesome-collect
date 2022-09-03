@@ -10,7 +10,9 @@ collect something awesome project
 https://github.com/alibaba/hooks  
 
 - rc-motion React lifecycle controlled motion library.  
+https://www.npmjs.com/package/rc-motion
 - rc-animate Animate React Component easily.
+https://www.npmjs.com/package/rc-animate
 
 - shallowequal  shallowequal is like lodash's isEqualWith but for shallow (strict) equal.
 
