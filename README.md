@@ -9,6 +9,26 @@ collect something awesome project
 官网：ahooks.js.org  
 https://github.com/alibaba/hooks  
 
+- rc-motion React lifecycle controlled motion library.  
+- rc-animate Animate React Component easily.
+
+- shallowequal  shallowequal is like lodash's isEqualWith but for shallow (strict) equal.
+
+```js
+const shallowequal = require('shallowequal');
+ 
+const object = { 'user': 'fred' };
+const other = { 'user': 'fred' };
+ 
+object == other;
+// → false
+ 
+shallowequal(object, other);
+// → true
+
+```
+
+
 ## 技能&知识点  
 - Front-End-Checklist 前端技能清单   
 主页：https://frontendchecklist.io  
@@ -29,6 +49,7 @@ https://github.com/alibaba/hooks
 地址：https://github.com/microsoft/fluentui
 - Element for React - 饿了么出品 Element 的 React 版，适合有使用 Element 习惯的开发者  
 地址：https://github.com/ElemeFE/element-react
+
 
 
 # 后端
